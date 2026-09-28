@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photography Skill"
+  short_description: "从提示词或已有照片生成错位构图、鲜明色彩与清晰锐利通透质感的新摄影作品"
+  default_prompt: "使用 $photography-skill，把我的提示词或照片转化为具有错位构图、鲜明色彩、清晰锐利通透质感与含蓄情绪的新摄影作品。"

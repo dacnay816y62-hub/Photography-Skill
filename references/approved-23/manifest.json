@@ -1,0 +1,214 @@
+{
+  "path_base": "references/ relative to repository root",
+  "count": 23,
+  "image_origin": "AI-generated photography experiments",
+  "items": [
+    {
+      "reference_id": "P01",
+      "label": "上海渡口",
+      "mechanism": "空间参与",
+      "observation": "近处红救生圈与蓝栏杆形成曲线和格网；登船者、购物车、踏板和远处水面仍连通。",
+      "transfer": "靠近真实设施建立进入现场的路径，人物沿路径行动。秩序与临场感可以独立成立，不必额外编造巧合。",
+      "file": "approved-23/P01-01-shanghai-ferry.png",
+      "sha256": "789681a1c6eed3ba9a9a50d1ded8013b040d011f70f89d8c22cf91d9aa774222"
+    },
+    {
+      "reference_id": "P02",
+      "label": "成都茶馆",
+      "mechanism": "生活节奏",
+      "observation": "桌面、茶杯与红暖瓶压在近处；白衣人的转头和举杯是观看中心，后方低头系鞋的人与竹椅形成较轻的节奏。",
+      "transfer": "保留自然神态、桌面距离和生活密度。次要人物可以丰富节奏，无须每个人都推进同一剧情。",
+      "file": "approved-23/P02-08-chengdu-teahouse.png",
+      "sha256": "ac2dacdeb813e6d3339d2f028d0e7fa257754613871d77c9061e74f019066ab9"
+    },
+    {
+      "reference_id": "P03",
+      "label": "搬蓝窗框",
+      "mechanism": "几何显露",
+      "observation": "搬运中的蓝框斜切黄色上衣和面孔，框内又出现远处侧脸；橙墙、门内暗区和弯腰者分开不同事件。",
+      "transfer": "物件必须正在被使用，框线与身体的交会决定取景。迁移斜框、分段显露和空间分区，不固定搬窗框。",
+      "file": "approved-23/P03-01-window-frame.png",
+      "sha256": "34a01f31f08858615569601798467306f0de16cbd66a8b6a244f75feda5b9d75"
+    },
+    {
+      "reference_id": "P04",
+      "label": "球场弯臂",
+      "mechanism": "身体框景",
+      "observation": "很近的弯臂占据大片画面，包围远处投篮者；右边的俯身动作与抬起的手臂方向不同。",
+      "transfer": "身体可以成为构图骨架。近景不是装饰挡边，要具体改变远处动作的观看方式。",
+      "file": "approved-23/P04-04-court-arm.png",
+      "sha256": "a9fac749d03952fecd22f5c5db351a47294d67d5e5d1e918388c8e798eea322e"
+    },
+    {
+      "reference_id": "P05",
+      "label": "理发红布",
+      "mechanism": "遮挡与反射",
+      "observation": "红披布在展开时遮住实体面孔，镜里仍有面孔线索，店外侧身路人处在另一光区。",
+      "transfer": "同一瞬间的隐藏与显露带来观看回路；用布、镜面和门口分区，避免全员平均清楚。",
+      "file": "approved-23/P05-02-barber-mirror.png",
+      "sha256": "6d8845d28a62ba70bed03bcd1c99d423316ba961261f0fd51817f026268f716d"
+    },
+    {
+      "reference_id": "P06",
+      "label": "宫墙游泳",
+      "mechanism": "身体临场感",
+      "observation": "水线几乎与相机齐平，泳者的脸被左边缘裁切，划水的手臂形成大弧，宫墙沿远处岸线延伸。",
+      "transfer": "机位要能感到水和动作正在身边发生；远处有辨识度的环境与近处身体同处一幅，不只展示地标。",
+      "file": "approved-23/P06-09-palace-swimmer.png",
+      "sha256": "697b34c8b8b3c3cbf2e80a42c9f39feba5654b6c1cfa56c14ba5317115b2d624"
+    },
+    {
+      "reference_id": "P07",
+      "label": "辛弃疾写字",
+      "mechanism": "安静张力",
+      "observation": "近处握笔的手与翻起的纸很大，人物视线却离开笔尖，门外的人与马落在明亮的第二空间。",
+      "transfer": "动作的停顿和视线的去向足以形成张力。允许完整面孔和安静神态，不强迫增加笑点或遮脸。",
+      "file": "approved-23/P07-12-xin-qiji.png",
+      "sha256": "16a11f6c7a5d97c77321fe934388b69696a0ca3a4e4fb01ce69ef15e3f39d2b1"
+    },
+    {
+      "reference_id": "P08",
+      "label": "搬椅上楼",
+      "mechanism": "几何显露",
+      "observation": "橙色椅架和青绿斜栏杆有重量，搬运者的眼睛与支撑手臂从椅架间出现，楼下开门者较小。",
+      "transfer": "身体完整程度、尺度和空间区域不平均。被遮住的部分使可见的眼睛、手和用力姿态更有意味。",
+      "file": "approved-23/P08-01-staircase-chairs.png",
+      "sha256": "287e2f2abeae80a198e64409dd9f0b3f37ea211c6e5454774bbde939732de813"
+    },
+    {
+      "reference_id": "P09",
+      "label": "泳池出水",
+      "mechanism": "方向与尺度",
+      "observation": "很近的出水面孔落在右下，远处只有倒立的双腿伸出水面；蓝水把头与脚连接起来。",
+      "transfer": "互不参与同一事件的动作，也能因方向、距离和同一空间形成明确呼应。",
+      "file": "approved-23/P09-02-pool-surface.png",
+      "sha256": "0db8ebc2066fe867369e8650eff741fc13d5597f6a2440d6ef4e4f1da1818791"
+    },
+    {
+      "reference_id": "P10",
+      "label": "空裤腿与倒立",
+      "mechanism": "视觉巧合",
+      "observation": "近处橙色空裤腿悬在上方，远处倒立者的双脚靠近裤口的视觉延长线，晾衣的手仍有来源。",
+      "transfer": "直接、好懂的视觉巧合可以成立；要保留前后距离和动作来源，不要求所有创意都含蓄到看不见。",
+      "file": "approved-23/P10-02-feet-waiting-for-trousers.png",
+      "sha256": "89a537de1411ae0876ebec805a5600144f15800e96b467c0eebf6fb3e1d150f5"
+    },
+    {
+      "reference_id": "P11",
+      "label": "巨鸟影子",
+      "mechanism": "影子与反差",
+      "observation": "小鸟偶、放大的鸟影、经过的买菜者及她自己的影子同处墙面，大小与行走状态各不相同。",
+      "transfer": "把日常行为与非日常尺度放在同一个光学情境里；投影大小、方向和光源关系仍应单独核查。",
+      "file": "approved-23/P11-04-borrowed-giant-shadow.png",
+      "sha256": "6e71604d0a0846a0344b1a03a48f1c8ddc4198ce7b6b403d82673287fdea53d0"
+    },
+    {
+      "reference_id": "P12",
+      "label": "金鱼与电车",
+      "mechanism": "近远尺度",
+      "observation": "近处透明鱼袋和鱼占据上部，孩子从左下仰望，街道与电车保留在后方及袋内透视区域。",
+      "transfer": "靠近物件改变尺度，加入具体观看者使尺度意外有情感落点。折射和重复物体的光学正确性另行核查。",
+      "file": "approved-23/P12-03-goldfish-city.png",
+      "sha256": "38ca3f939deaeea5dc935f8c04f15d35687b89db3ea14ff8c6b192f904456f2b"
+    },
+    {
+      "reference_id": "P13",
+      "label": "高跷等公交",
+      "mechanism": "日常反差",
+      "observation": "巨大的黄色长裤和高跷从画外垂下，较小的老人坐着剥橘子，公交车与站亭围住同一等待空间。",
+      "transfer": "非常规主体也在做普通的事；幽默来自共享处境和尺度差，不需要夸张表情。",
+      "file": "approved-23/P13-06-giant-at-bus-stop.png",
+      "sha256": "5835f09600f35dca2be7dd03c75e8cc41324ce05bcd0f01a9f6febd155c5a2d6"
+    },
+    {
+      "reference_id": "P14",
+      "label": "宋代茶馆",
+      "mechanism": "动作节奏",
+      "observation": "近处端茶的手臂和托盘切入下半幅，右侧接茶的手相向，门外踢球者抬腿，与近处稳定托盘形成错拍。",
+      "transfer": "相邻活动的节奏可经门洞和视点组织起来；清楚的茶盘、手、腿和建筑空隙使复杂场景可读。",
+      "file": "approved-23/P14-02-song-teahouse-24mm.png",
+      "sha256": "742c2c0097c06a02b2efc343f2ac3e046e34732dcc601ef8bb233991ed4bc695"
+    },
+    {
+      "reference_id": "P15",
+      "label": "古罗马面包房",
+      "mechanism": "物件引导",
+      "observation": "面包和长木铲伸到镜头前，持铲者被右边缘裁切，揉面者和门口人物分布在更深处。",
+      "transfer": "用真实生产动作把近处物件连回身体，材质、尺度和劳动过程本身就有内容，不必强造意外。",
+      "file": "approved-23/P15-01-roman-bakery-28mm.png",
+      "sha256": "6ce2207c8f30cf4daf9e01fbe6f6cbc95ee09ff7be836f16fe3dcf06f3d7ae48"
+    },
+    {
+      "reference_id": "P16",
+      "label": "民国戏班",
+      "mechanism": "多重空间",
+      "observation": "前景化妆者背向相机，镜里露出脸和落笔动作；红帘旁的候场者与更亮的舞台开口形成另一层。",
+      "transfer": "镜面和门帘组织人物的可见程度，工作状态与台前状态并置，注意力有近远和明暗之分。",
+      "file": "approved-23/P16-06-republic-opera-28mm.png",
+      "sha256": "76f09b80ad8dc92ec4cfafd63eab7d767935953c6ed44de940a100a5aa370e7e"
+    },
+    {
+      "reference_id": "P17",
+      "label": "民国电车",
+      "mechanism": "门槛时刻",
+      "observation": "机位在车门内，右侧近处手递出票，红衣乘客抬脚登车，后方行人与街道被门框分开。",
+      "transfer": "让相机站在事件发生的位置，用将要完成的动作和真实门槛连接空间，避免远距离拍成整齐群像。",
+      "file": "approved-23/P17-07-republic-tram-24mm.png",
+      "sha256": "06fca6867d22df0ed777eb74bd611ea2466e6a790926c2cba02a535be6362508"
+    },
+    {
+      "reference_id": "P18",
+      "label": "土星维修",
+      "mechanism": "巨大世界中的日常动作",
+      "observation": "近处宇航服袖口、手套和维修接口构成强弧线，后方人员沿结构分布，土星与环占据巨大背景。",
+      "transfer": "宏大场景也从具体工作进入：手在做什么、身体靠在哪里、设备如何连接。题材只在用户要求时采用，不写成默认宇宙世界观。",
+      "file": "approved-23/P18-01-saturn-maintenance-24mm.png",
+      "sha256": "f01d67fa4a506262b6e4239b8d002cb3ae6f39fada5564c879cfe362feefeaa1"
+    },
+    {
+      "reference_id": "P19",
+      "label": "海岛晒鱼与猫",
+      "mechanism": "临界交会",
+      "observation": "画外伸来的手靠近悬鱼，窗口里的猫只伸出爪，石墙和渔网分隔人、鱼与猫的来路。",
+      "transfer": "一小段即将接触的空隙就能形成事件；画外身体不用补全，局部必须有可理解的来源。",
+      "file": "approved-23/P19-02-island-fish-24mm.png",
+      "sha256": "0a14f741607fdf72519d3aa70cfb9b9f1092ac15bfa32a8db0b8ab937f0dc585"
+    },
+    {
+      "reference_id": "P20",
+      "label": "海岛玻璃门",
+      "mechanism": "反射与透视",
+      "observation": "斜开的玻璃门叠入外面的蓝海和人影，室内红盆与店主在较暗区域，真正的外部空间仍从门旁露出。",
+      "transfer": "让真实透明介质连接内外，以红色近物、暗室和蓝色远景建立层次；不要把重影当作自动成立的空间。",
+      "file": "approved-23/P20-03-island-glass-28mm.png",
+      "sha256": "e9804b7de502e9bb5e7d158ad2d19cc81442ef1619563213da3a2c249f2059fb"
+    },
+    {
+      "reference_id": "P21",
+      "label": "海贼王抢肉",
+      "mechanism": "人物互动",
+      "observation": "很近的手抓住肉，延伸的手臂把它连到主人公；另一人物拉住他，目光、表情和动作形成连续因果。",
+      "transfer": "人物关系可以很直接，动作必须改变彼此。显式虚构设定允许相应身体能力，其余接触、遮挡和光色继续遵守摄影逻辑。",
+      "file": "approved-23/P21-08-one-piece-24mm.png",
+      "sha256": "d1c3439528fcd27ee04fb39e78c357a40f2c694b949baa8514aa9cc27c7f29ea"
+    },
+    {
+      "reference_id": "P22",
+      "label": "婺源晒秋",
+      "mechanism": "动作打断",
+      "observation": "近处红椒、黄谷物的大圆筛组织画面，鸡的张翼与人物挥扇相对，人物从边缘进入而环境仍清楚。",
+      "transfer": "地方物件参与真实事件，地域性由动作、材质和空间体现；避免把民俗陈列当作人物趣味。",
+      "file": "approved-23/P22-19-wuyuan-harvest-28mm.png",
+      "sha256": "07d1eb629f2353cfc4bb586503e02c48bdd85f5c947cd2583f56c226372a9195"
+    },
+    {
+      "reference_id": "P23",
+      "label": "哈尔滨冬泳",
+      "mechanism": "温度与关照",
+      "observation": "上岸者一手抓梯，嘴靠近热茶，画外红袖和黑手套把杯子递来，大片冰水和湿皮肤形成温度反差。",
+      "transfer": "手、嘴、杯与梯构成紧凑的人物关系，情感落在一次具体照应里；不需要额外煽情表演。",
+      "file": "approved-23/P23-25-harbin-winter-swim-24mm.png",
+      "sha256": "389f63a73f2a6684e80a4e6acd6216168972fb6d50ea74e83ebb2b97781706c1"
+    }
+  ]
+}
